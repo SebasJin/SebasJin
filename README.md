@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning PYTTTHOOONNNM (still)
 - 💞️ I’m looking to collaborate on idk, Investo,
 - 📫 How to reach me, idk, go figure, 
+- also i am lazy. 
 
 <!---
 SebasJin/SebasJin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
